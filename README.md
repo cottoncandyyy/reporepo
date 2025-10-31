@@ -1,2 +1,2 @@
 # reporepo
-be rich 
+be rich  1
