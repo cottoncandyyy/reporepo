@@ -1,3 +1,3 @@
 # reporepo
-be rich 12312322122
+be rich 12312
 
